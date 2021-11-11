@@ -3,7 +3,7 @@
 	$dbuser = 'root';
 	$dbpass = '';
 	$host 	= 'localhost';
-	$dbname	= 'task_01';
+	$dbname	= 'product_db';
 
 
 	function getConnection(){
